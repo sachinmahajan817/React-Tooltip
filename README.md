@@ -97,8 +97,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * Github search.
 
 **You May Also like the**
-* Music Player - https://wakininja.github.io/music_Player_project/
-* Alarm clock - https://wakininja.github.io/AlarmClock-SkillTest-Project/
+* Music Player - https://sachinmahajan817.github.io/Ping-Pong-Project/
+* Alarm clock - https://user-auth.lucassartor.vercel.app/
 
 
 
